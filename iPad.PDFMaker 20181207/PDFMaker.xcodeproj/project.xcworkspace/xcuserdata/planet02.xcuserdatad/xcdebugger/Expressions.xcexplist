@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PdfManageViewController._touchesBegan(_:with:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nowPage">
+            </PersistentString>
+            <PersistentString
+               value = "starPoint">
+            </PersistentString>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict[nowPage]">
+            </PersistentString>
+            <PersistentString
+               value = "self.undoAnnotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseScrollView.touchesBegan(_:with:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "next">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController._touchesEnded(_:with:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lastSelection.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.startPoint">
+            </PersistentString>
+            <PersistentString
+               value = "self.endPoint">
+            </PersistentString>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict">
+            </PersistentString>
+            <PersistentString
+               value = "self.undoAnnotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.scrollViewDidEndDecelerating(_:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.maxPage">
+            </PersistentString>
+            <PersistentString
+               value = "nowPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.removeSelectedAnnotation():PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.removePoint">
+            </PersistentString>
+            <PersistentString
+               value = "targetPdfView.currentSelection">
+            </PersistentString>
+            <PersistentString
+               value = "annotation.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseScrollView.touchesEnded(_:with:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIResponder?)$R4">
+            </PersistentString>
+            <PersistentString
+               value = "next">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController._touchesMoved(_:with:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(targetPdfView?.currentPage?.annotations.count)!">
+            </PersistentString>
+            <PersistentString
+               value = "self.undoAnnotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.onTapUndoButton(sender:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nowPage">
+            </PersistentString>
+            <PersistentString
+               value = "targetPdfView.currentPage?.annotations">
+            </PersistentString>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict[nowPage]">
+            </PersistentString>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict">
+            </PersistentString>
+            <PersistentString
+               value = "self.undoAnnotation.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.isScroll">
+            </PersistentString>
+            <PersistentString
+               value = "self.undoAnnotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.createPdfScrollView(pageNo:isInitCreateThumb:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pdfScrollView.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PdfManageViewController.createPdfScrollView(pageNo:isInitCreateThumb:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict[nowPage]!">
+            </PersistentString>
+            <PersistentString
+               value = "next">
+            </PersistentString>
+            <PersistentString
+               value = "self.next">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.longPress(sender:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.removePoint">
+            </PersistentString>
+            <PersistentString
+               value = "self.startPoint.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.scrollViewDidEndDragging(_:willDecelerate:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict[nowPage-targetAddPage]">
+            </PersistentString>
+            <PersistentString
+               value = "nowPage">
+            </PersistentString>
+            <PersistentString
+               value = "nowPage+targetAddPage+kTagPdfView">
+            </PersistentString>
+            <PersistentString
+               value = "nowPage-targetAddPage+kTagPdfView">
+            </PersistentString>
+            <PersistentString
+               value = "self.pdfPageAnnotationDict[nowPage]">
+            </PersistentString>
+            <PersistentString
+               value = "self.undoAnnotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfManageViewController.onTapUnderlineButton(sender:):PdfManageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.isHighlight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PdfManageViewController.loadView():PdfManageViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
